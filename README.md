@@ -294,31 +294,22 @@ java -cp out ui.Main
 
 ### Main Game Board
 
+![Main Game Board](docs/screenshot-1.png)
+
 The main chess board with piece highlighting.
 
 ### Legal Moves Highlighted
+
+![Legal Moves](docs/screenshot-2.png)
 
 Green squares show legal moves for selected piece.
 
 ### Game End Screen
 
+![Game End](docs/screenshot-3.png)
+
 Checkmate or time-out notification.
 
-### Adding Screenshots
-
-1. Create a `docs` folder
-2. Take screenshots
-3. Save as:
-
-```
-docs/screenshot-1.png
-docs/screenshot-2.png
-docs/screenshot-3.png
-```
-
-4. Commit and push to GitHub.
-
----
 
 # 🤝 Contributing
 
