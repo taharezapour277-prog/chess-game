@@ -1,9 +1,9 @@
-# ♟️ بازی شطرنج — Java Swing
+# ♟️ Chess Game — Java Swing
 
 <div align="center">
 
+**[English](README.md)** | **[فارسی](READMEFA.md)**
 
-**[فارسی](READMEFA.md)** | **[English](README.md)**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
