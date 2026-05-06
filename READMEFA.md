@@ -1,7 +1,7 @@
 # ♟️ بازی شطرنج — Java Swing
 
 <div align="center">
-<div align="center">
+
 
 **[فارسی](READMEFA.md)** | **[English](README.md)**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
