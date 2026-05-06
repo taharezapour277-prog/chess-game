@@ -72,25 +72,27 @@
 
 # 🏗️ معماری (MVC)
 
+```
 ┌──────────────────────────────┐
-│ View │
-│ ChessFrame, ChessBoardPanel │
-│ Rendering, UI, Timers │
+│            View              │
+│  ChessFrame, ChessBoardPanel │
+│  Rendering, UI, Timers       │
 └──────────────┬───────────────┘
-│
-▼
+               │
+               ▼
 ┌──────────────────────────────┐
-│ Controller │
-│ Game │
-│ Move validation, Rules │
+│         Controller           │
+│           Game               │
+│   Move validation, Rules     │
 └──────────────┬───────────────┘
-│
-▼
+               │
+               ▼
 ┌──────────────────────────────┐
-│ Model │
-│ Board, Pieces, Position │
-│ Color │
+│            Model             │
+│  Board, Pieces, Position     │
+│  Color                       │
 └──────────────────────────────┘
+```
 
 ### مدل (`پکیج model`)
 
