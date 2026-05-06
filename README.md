@@ -11,7 +11,10 @@ A full-featured chess application built in Java with Swing, following clean arch
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contact](#-contact)
 
 </div>
+---
 
+| [English](README.md) | [Persian](READMEFA.md) |
+| :---: | :---: |
 ---
 
 # 📋 Table of Contents
