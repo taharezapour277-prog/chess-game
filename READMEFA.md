@@ -130,14 +130,15 @@
 
 # 📁 ساختار پروژه
 
+```
 chess-game/
 
 ├── README.md
 ├── run.bat
 ├── docs/
-│ ├── screenshot-1.png
-│ ├── screenshot-2.png
-│ └── screenshot-3.png
+│   ├── screenshot-1.png
+│   ├── screenshot-2.png
+│   └── screenshot-3.png
 └── src/
 
     ├── model/
@@ -150,17 +151,18 @@ chess-game/
     │   ├── Bishop.java
     │   ├── Knight.java
     │   ├── Pawn.java
-    └── └── Position.java
+    │   └── Position.java
 
     ├── game/
     │   ├── Game.java
     │   ├── GameStatus.java
-    └── └── Move.java
+    │   └── Move.java
 
     └── ui/
         ├── Main.java
         ├── ChessFrame.java
         └── ChessBoardPanel.java
+```
 
 ---
 
