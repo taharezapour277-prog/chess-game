@@ -306,9 +306,11 @@ java -cp out ui.Main
 
 از مشارکت شما استقبال می‌شود.
 
+```
 git checkout -b feature/improvement
 git commit -m "Add new feature"
 git push origin feature/improvement
+```
 
 سپس یک **Pull Request** ایجاد کنید.
 
