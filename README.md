@@ -1,5 +1,8 @@
 # ♟️ Chess Game — Java Swing
 
+| [English](README.md) | [Persian](READMEFA.md) |
+| :---: | :---: |
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -11,10 +14,7 @@ A full-featured chess application built in Java with Swing, following clean arch
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contact](#-contact)
 
 </div>
----
 
-| [English](README.md) | [Persian](READMEFA.md) |
-| :---: | :---: |
 ---
 
 # 📋 Table of Contents
