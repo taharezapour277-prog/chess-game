@@ -329,7 +329,7 @@ Then open a **Pull Request**.
 
 MIT License
 
-Copyright © 2025 Taha Rezapour
+Copyright © 2026 Taha Rezapour
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  
 of this software and associated documentation files (the "Software"), to deal  
